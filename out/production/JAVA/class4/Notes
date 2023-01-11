@@ -1,0 +1,60 @@
+*** Note Shortcut- If your code look messy with lot of spaces and uneven brackets
+                   use Shortcut for making it readable or organizable
+                                for Windows- Ctrl+alt+l
+                                for Mac- Cmd+opt+l
+
+Operators:
+    Operators are different symbols that we can use to perform operations like- addition, subtraction, multiplication,
+    division
+    Compare things if two entities are same or not if a number is greater than the other number or not.
+    There are 3 main types of Operators:
+    1) Arithmetic Operators
+    2) Relational Operators
+    3) Logical Operators
+
+ 1) Arithmetic Operators:
+    We use Arithmetic operators to perform simple math operations.
+    + Addition
+    - Subtraction
+    * Multiplication
+    / Division
+    % Modulus, Remainder
+
+ 2) Relational Operators:
+    Relational Operators are used to Compare two quantities or entities,
+    eg: if something is bigger than other thing or
+        if two numbers are same or not,
+        if two boolean variables contain same values or not.
+    == To check if two variables contain same value or not if same we get TRUE ortherwise we get False
+    != To check if two variables are NOT of the same value, we get TRUE if they are not same & False if they are same.
+    >  To check if one variable is Greater than another or not, if it is Greater we will get TRUE & if not then False.
+    <  To check if one variable is Less than the another or not, if it Less we will get TRUE & if not then False.
+    >= To check if one variable is Greater than another or not, if it is Greater we will get TRUE & if not then False.
+    <= To check if one variable is Greater or Equal than another,if it is Greater or Equal we will get TRUE
+       & if not then False.
+    >= To check if one variable is Less or Equal than another, if it is Less or Equal we will get TRUE
+       & if not then False.
+
+    Conditional Constructs:
+    -----------------------
+ 1) If Else
+    A conditional code where a piece of code that execute based on a condition, if condition is true that Java execute
+    the code otherwise it skip that code.
+
+    How to write Ifelse condition:
+    if(condition1){
+    @ Expected output if the above given condition1 is True
+    @ You can give another 'If' condition
+        if(condition2){
+        Expected output if the above given condition2 is True
+        }
+    }
+
+**** If you test the same variable for multiple conditions use---> if else if
+**** If you have multiple variable and multiple conditions are dependent on each other use---> Nested if
+
+Type casting widening and narrowing---- implicit or explicit
+
+
+Logical Operators: Just another set of symbols that we can use to combine the multiple boolean values.
+There are 3 logical operators !(not)    ||(or)     &&(and)
