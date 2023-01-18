@@ -2,7 +2,7 @@ package class8Homework;
 
 import java.util.Scanner;
 
-public class J_04_ {
+public class J_04_Shopping {
     public static void main(String[] args) {
         /*
         4) Write a program to ask a user to enter item they want to buy and the price of that item. User will be
@@ -31,7 +31,7 @@ public class J_04_ {
         } else if (amountPaid<totalPrice) {
             System.out.println("You can't buy all the items");
         }else{
-            
+            System.out.println("Thank you for shopping!");
         }
     }
 }

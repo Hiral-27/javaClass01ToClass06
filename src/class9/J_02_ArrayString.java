@@ -1,6 +1,6 @@
 package class9;
 
-public class J_02_Arrays {
+public class J_02_ArrayString {
     public static void main(String[] args) {
         String [] names= {"Slava","Safi","Jason","Nabi","Anees","Joseph"};
         System.out.println(names[2]);

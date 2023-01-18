@@ -17,7 +17,7 @@ What is the syntax:
     if(conditions1 && condition2)
 
 NOT Operator (!)
-    Not is used to negate the boolean values if something is  it will make it false if something
+    Not is used to negative the boolean values if something is  it will make it false if something
     is false it will make it true.
 
 What is a SwitchCase statement:

@@ -1,6 +1,6 @@
 package class9;
 
-public class J_05_Arrays {
+public class J_05_ArraysDouble {
     public static void main(String[] args) {
         /*
 

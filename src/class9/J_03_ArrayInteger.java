@@ -1,6 +1,6 @@
 package class9;
 
-public class J_03_ArraysInteger {
+public class J_03_ArrayInteger {
     public static void main(String[] args) {
         int[] number= {10, 20, 30, 45, 50};
         int sum=0;

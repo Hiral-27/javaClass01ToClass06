@@ -1,6 +1,6 @@
 package class9;
 
-public class J_04_Arrays {
+public class J_04_Array_EmptyArray {
     public static void main(String[] args) {
         int number= 10;
         int[] numbers = new int[5];  // An empty array of size 5, you can store 5 values to it
