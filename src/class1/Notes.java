@@ -36,7 +36,7 @@ public class Notes {
      {} Braces OR Curly Brackets
      <> Angle Brackets
 
-                    * Date: 11th Dec, 2022 (Sunday)     Java Class-2 *
+
 
 
 
